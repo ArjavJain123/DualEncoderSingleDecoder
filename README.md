@@ -52,4 +52,7 @@ flowchart TD
     end
     class J,K outPath;
 ```
+
+# Some Results:
+![Some results alt txt](SomeResults.png)
 _ToDo: Add more description about the project, training methods, evalution, curves etc_
