@@ -3,4 +3,4 @@
 
 This repository contains the training code for the task specific object detection framework whose Dual Encoder Single Decoder architecture is heavily inspired by CLIP and DETR papers.
 
-_The project is still in development (training phase)._
+_ToDo: ADd more description about the project, training methods, evalution, curves etc_
