@@ -1,0 +1,13 @@
+albumentations==2.0.8
+ipython==8.12.3
+matplotlib==3.10.9
+numpy==2.4.5
+onnx==1.20.1
+opencv_contrib_python==4.13.0.92
+opencv_python==4.13.0.92
+opencv_python_headless==4.13.0.92
+Pillow==12.2.0
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+tqdm==4.67.3
+transformers==5.0.0
